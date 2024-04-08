@@ -1,7 +1,8 @@
-# [Quick short link shortner for Anatomy of a Schism](https://eileencampbellreed.org/anatomy-of-a-schism/)
+# [Quick short link shortner for Eileen Campbell-Reed](https://eileencampbellreed.org/)
 ## Links
-- [anatomyofaschism.com](https://anatomyofaschism.com)
-- [anatomyofaschism.org](https://anatomyofaschism.org)
+- [eileencampbellreed.com](eileencampbellreed.com)
+- [eileencampbellreed.info](eileencampbellreed.info)
+- [eileencampbellreed.net](https://eileencampbellreed.net)
 
 ## This solution
 
